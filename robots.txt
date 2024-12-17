@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://deliwindowsblinds.xyz/sitemap_index.xml
